@@ -1,0 +1,174 @@
+{
+  "tasks": [
+    {
+      "id": "20261006181416-b3v0",
+      "title": "최근의 웹사이트 판매 데이터 분석",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-10-06T18:14:16.409Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.592Z"
+    },
+    {
+      "id": "20261006181416-qxby",
+      "title": "최근의 유튜브 채널 성과 분석",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-10-06T18:14:16.442Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.612Z"
+    },
+    {
+      "id": "20261006181416-p04t",
+      "title": "최근의 인스타그램 성과 분석",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-10-06T18:14:16.469Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.635Z"
+    },
+    {
+      "id": "20261006181416-hur2",
+      "title": "경쟁사 A의 수익화 모델 분석",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-10-06T18:14:16.496Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.654Z"
+    },
+    {
+      "id": "20261006181416-u40y",
+      "title": "경쟁사 B의 수익화 모델 분석",
+      "description": "자동 등록 (현빈 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "business"
+      ],
+      "createdAt": "2026-10-06T18:14:16.518Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.678Z"
+    },
+    {
+      "id": "20261006181431-ooo2",
+      "title": "최근의 웹사이트 판매 데이터 분석",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-10-06T18:14:31.845Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.698Z"
+    },
+    {
+      "id": "20261006181431-0p79",
+      "title": "최근의 유튜브 채널 성과 분석",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-10-06T18:14:31.864Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.719Z"
+    },
+    {
+      "id": "20261006181431-c4ha",
+      "title": "최근의 인스타그램 성과 분석",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-10-06T18:14:31.883Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.753Z"
+    },
+    {
+      "id": "20261006181431-3gqt",
+      "title": "경쟁사 A의 수익화 모델 분석",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-10-06T18:14:31.900Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.778Z"
+    },
+    {
+      "id": "20261006181431-j85t",
+      "title": "경쟁사 B의 수익화 모델 분석",
+      "description": "자동 등록 (영숙 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "secretary"
+      ],
+      "createdAt": "2026-10-06T18:14:31.922Z",
+      "status": "done",
+      "sessionDir": "2026-10-06T18-13",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-10-06T18-13/_report.md\n- Researcher: 회사의 최근 성과와 경쟁사 분석\n- 현빈: 가장 가치 있는 단일 작업을 결정\n- 영숙: 작업 일정 및 할 일 목록 생성\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: 회사의 최근 성과와 경쟁사 분석\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: 네, 알겠습니다. 회사의 최근 성과와 경쟁사 분석을 위해 작업을 진행하겠습니다.\n> 📝 ",
+      "completedAt": "2026-10-06T18:14:44.798Z"
+    }
+  ]
+}
