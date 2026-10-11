@@ -146,3 +146,5 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-11] 현재 KPI 달성률과 에이전트별 개인 목표를 비교 분석하여, 가장 큰 수익 증대 또는 효율성 개선 효과를 가져올 수 있는 단일 행동(Action)을 도출하고, 해당 행동의 ROI 예측치를 제시하라. → 산출물 sessions/2026-10-11T10-43/business.md
 - [2026-10-11] 회사 목표 및 에이전트 개인 목표를 종합 검토하여, 현재 시점에서 가장 높은 ROI를 가져올 수 있는 단일 핵심 작업(Single Highest Value Action)을 3가지 옵션으로 제안하고, 각 옵션의 성공 기준(KPI)을 정의하십시오. → 산출물 sessions/2026-10-11T11-13/business.md
 - [2026-10-11] Researcher와 Secretary가 제공한 데이터를 바탕으로, 가장 높은 수익성(Monetization Potential)과 낮은 구현 난이도를 가진 단일 핵심 작업(High-Leverage Task)을 선정하고, 해당 작업에 대한 초기 KPI와 예상 효과를 분석하라. → 산출물 sessions/2026-10-11T12-15/business.md
+- [2026-10-11] secretary의 내부 보고와 researcher의 외부 분석을 통합하여, 현재 시점에서 가장 높은 수익성과 가치를 창출할 수 있는 단일 실행 가능한 작업(Single Highest Value Action)을 결정하고 실행 계획을 수립하라. → 산출물 sessions/2026-10-11T12-30/business.md
+- [2026-10-11] researcher가 제시한 3가지 주제/니치 각각에 대해, 현재 KPI 및 수익화 전략 관점에서 예상되는 시장 규모, 난이도, 그리고 예상되는 ROI(투자 대비 수익)를 분석하고 최적의 실행 우선순위를 제시하십시오. → 산출물 sessions/2026-10-11T12-45/business.md
