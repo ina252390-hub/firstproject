@@ -276,3 +276,5 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-19] Secretary와 Researcher가 제공한 데이터를 기반으로, 가장 높은 ROI를 창출할 수 있는 단일 핵심 작업(Action Item)을 제안하고, 해당 작업의 실행 우선순위를 결정하세요. → 산출물 sessions/2026-10-19T14-02/business.md
 - [2026-10-19] secretary가 제공한 내부 현황과 researcher가 제공한 외부 트렌드를 기반으로, 중복되지 않으면서도 가장 높은 ROI가 예상되는 단일 핵심 작업(Next High-Value Task)을 선정하고, 해당 작업의 KPI와 우선순위를 결정합니다. → 산출물 sessions/2026-10-19T14-32/business.md
 - [2026-10-19] Secretary와 Researcher의 보고를 기반으로, 현 KPI 달성 및 수익 극대화를 기준으로 가장 시급하고 가치가 높은 단일 작업(Single Most Valuable Task)을 제안하고, 해당 작업의 예상 ROI를 분석합니다. → 산출물 sessions/2026-10-19T14-47/business.md
+- [2026-10-19] secretary와 researcher가 제공한 내부 및 외부 데이터를 기반으로, 회사의 KPI 달성에 가장 기여할 수 있는 단 하나의 고가치 작업을 최종 결정하고, 해당 작업의 예상 ROI를 산출할 것. → 산출물 sessions/2026-10-19T15-02/business.md
+- [2026-10-19] 현재 회사 KPI 및 수익화 상태를 분석하고, 가장 높은 ROI(투자 대비 효과)를 창출할 수 있는 다음 단계의 비즈니스 전략적 기회 영역을 식별하십시오. → 산출물 sessions/2026-10-19T15-17/business.md
