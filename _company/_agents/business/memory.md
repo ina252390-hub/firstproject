@@ -324,3 +324,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-20] secretary와 researcher의 데이터를 바탕으로, 현재 KPI 달성 및 수익 극대화 관점에서 가장 가치 있고 비반복적인 '단일 최우선 작업'을 선정하고, 그 이유와 예상 효과를 제시하라. → 산출물 sessions/2026-10-20T18-43/business.md
 - [2026-10-20] secretary와 researcher의 보고를 바탕으로, 회사의 KPI와 목표에 가장 부합하며 재현성이 낮은 단일 최적 작업(Task)을 선정하고, 해당 작업의 예상 수익화 경로(KPI)를 정의합니다. → 산출물 sessions/2026-10-20T18-58/business.md
 - [2026-10-20] secretary와 researcher가 제공한 내부 목표 및 외부 기회 요인을 분석하여, KPI 달성에 가장 기여도가 높은 단일 작업(Single Highest Value Task)을 최종 결정하고, 실행 에이전트 및 구체적인 목표를 제안합니다. → 산출물 sessions/2026-10-20T19-13/business.md
+- [2026-10-20] researcher가 제시한 트렌드와 secretary가 제공한 목표를 결합하여, 가장 높은 ROI를 가져올 수 있는 '가치 있는 단일 작업'을 최종적으로 제안하라. → 산출물 sessions/2026-10-20T19-28/business.md
