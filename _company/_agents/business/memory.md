@@ -304,3 +304,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-20] Secretary와 Researcher가 제공한 내부 상태 및 외부 기회 분석을 바탕으로, 회사의 KPI 달성 및 최대 수익화 잠재력을 고려했을 때, 가장 높은 가치를 창출할 단일 작업(Action Item) 1개를 최종적으로 결정하고 그 근거를 제시하라. → 산출물 sessions/2026-10-20T12-43/business.md
 - [2026-10-20] Secretary와 Researcher가 제공한 현황 및 시장 데이터를 기반으로, 당사의 KPI 달성에 가장 큰 영향을 미칠 수 있는 단일 고가치 작업(High-Value Single Task)을 식별하고 제안합니다. → 산출물 sessions/2026-10-20T12-58/business.md
 - [2026-10-20] 현재 KPI 및 수익화 목표와 연계하여, 리서처가 제시한 영역 중 비즈니스적 관점에서 가장 높은 ROI를 기대할 수 있는 핵심 목표를 선정하고 그 근거를 제시하라. → 산출물 sessions/2026-10-20T13-13/business.md
+- [2026-10-20] secretary와 researcher의 분석 결과를 바탕으로, KPI 달성에 가장 기여도가 높고 고유한 단일 작업(High-Impact Single Task)을 선정하고 실행 우선순위를 지정합니다. → 산출물 sessions/2026-10-20T13-58/business.md
