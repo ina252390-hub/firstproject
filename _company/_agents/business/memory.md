@@ -471,3 +471,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-27] secretary가 제공한 미결 항목 리스트를 분석하고, 장기적인 회사 KPI 달성 및 현재 시장 가치 증대에 가장 큰 영향을 미칠 단일 작업(Single Highest Value Task)을 선정하고 그 이유를 정당화하라. → 산출물 sessions/2026-10-27T11-35/business.md
 - [2026-10-27] secretary와 researcher의 분석 결과를 종합하여, 현재 KPI와 목표 달성률을 고려했을 때 가장 높은 ROI를 가져올 수 있는 '단일 최우선 전략적 행동(Single Highest-Leverage Strategic Action)'을 제안하고, 그 근거를 제시. → 산출물 sessions/2026-10-27T12-05/business.md
 - [2026-10-27] Secretary가 제공한 내부 상태와 Researcher가 제공한 외부 기회 영역을 바탕으로, 현재 가장 높은 ROI를 창출할 수 있는 단일 핵심 작업(Single Most Valuable Task)을 선정하고, 해당 작업의 전략적 실행 목표(KPI)를 설정하시오. → 산출물 sessions/2026-10-27T12-35/business.md
+- [2026-10-27] Secretary가 제공한 상태 요약 보고서를 기반으로, 가장 높은 ROI를 보장하며, 최근 24시간 내에 유사한 산출물을 반복하지 않는 '단일 최우선 작업'을 선정하고 실행 방향을 제시한다. → 산출물 sessions/2026-10-27T12-50/business.md
