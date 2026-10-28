@@ -513,3 +513,6 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-28] secretary와 researcher의 분석 결과를 바탕으로, 회사의 KPI 달성 및 수익화 관점에서 가장 가치 있는 단일 작업(Single Most Valuable Task)을 결정하고 실행 우선순위를 확정합니다. → 산출물 sessions/2026-10-28T11-36/business.md
 - [2026-10-28] researcher가 제시한 3가지 후보 기회 영역에 대해, 예상되는 수익화 잠재력, KPI 달성 기여도, 실행 난이도를 기준으로 평가하고, 최종적으로 가장 가치 있는 단일 작업을 선정하여 우선순위를 확정하시오. → 산출물 sessions/2026-10-28T11-51/business.md
 - [2026-10-28] researcher가 도출한 고잠재력 영역과 회사의 KPI를 대조하여, 자원 투입 대비 최대의 비즈니스 가치(ROI)를 창출할 수 있는 단 하나의 최적 작업(Actionable Task)을 최종 결정하고 실행 계획을 제시합니다. → 산출물 sessions/2026-10-28T12-06/business.md
+- [2026-10-28] researcher가 도출한 틈새 기회 3가지에 대해 현재 KPI 및 수익화 전략을 적용하여, 가장 높은 ROI를 가져올 단일 프로젝트를 선별하고 실행 계획의 우선순위를 정의해라. → 산출물 sessions/2026-10-28T12-21/business.md
+- [2026-10-28] secretary가 제공한 내부 상태 요약과 researcher가 제공한 외부 트렌드 분석을 바탕으로, 반복되지 않으면서 가장 높은 가치를 창출할 수 있는 단일 작업(Single Most Valuable Task)을 결정하고 그 이유를 설명해 주세요. → 산출물 sessions/2026-10-28T12-36/business.md
+- [2026-10-28] secretary의 상태 요약과 researcher의 외부 분석을 종합적으로 검토하여, 현재 시점에서 가장 높은 수익성(ROI)과 전략적 가치를 지닌 단일 작업(Single Task)을 결정하고, 그 실행 우선순위를 제시하십시오. → 산출물 sessions/2026-10-28T13-15/business.md
