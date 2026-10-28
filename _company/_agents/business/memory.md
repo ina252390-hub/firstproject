@@ -510,3 +510,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-28] 현재 KPI 달성률과 수익화 파이프라인을 분석하고, 가장 높은 ROI(투자 대비 효과)를 가져올 수 있는 전략적 행동 방향을 3가지 옵션과 함께 제시합니다. → 산출물 sessions/2026-10-28T10-51/business.md
 - [2026-10-28] 제시된 후보 작업 목록과 외부 기회를 KPI(Key Performance Indicator) 관점에서 분석하고, 투자 대비 수익(ROI)이 가장 높을 것으로 예상되는 단일 작업의 최종 우선순위를 결정. → 산출물 sessions/2026-10-28T11-06/business.md
 - [2026-10-28] secretary의 내부 상태 요약과 researcher의 외부 시장 분석 결과를 바탕으로, KPI 달성 관점에서 가장 높은 가치를 창출할 수 있는 단일 행동(Action Item)을 선정하고 실행 우선순위를 지정하라. → 산출물 sessions/2026-10-28T11-21/business.md
+- [2026-10-28] secretary와 researcher의 분석 결과를 바탕으로, 회사의 KPI 달성 및 수익화 관점에서 가장 가치 있는 단일 작업(Single Most Valuable Task)을 결정하고 실행 우선순위를 확정합니다. → 산출물 sessions/2026-10-28T11-36/business.md
