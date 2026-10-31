@@ -595,3 +595,4 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-31] secretary와 researcher의 보고서를 종합하여, KPI 달성에 가장 기여할 수 있는 단일하고 독창적인 다음 행동(Action Item)을 최종 결정하고 이유를 제시. → 산출물 sessions/2026-10-31T08-06/business.md
 - [2026-10-31] secretary가 식별한 후보 작업들과 researcher가 제공한 데이터를 바탕으로, 잠재적 수익 창출 가능성(ROI)과 비즈니스 KPI 달성 기여도를 기준으로 최종 단일 작업의 우선순위를 결정하고 근거를 제시하시오. → 산출물 sessions/2026-10-31T08-49/business.md
 - [2026-10-31] secretary와 researcher의 보고를 기반으로, 현재 KPI 달성에 가장 큰 기여를 할 수 있는 '단일 최적의 작업(Highest Leverage Action Item)'을 결정하고, 실행을 위한 구체적인 방향성을 설정할 것. → 산출물 sessions/2026-10-31T09-04/business.md
+- [2026-10-31] secretary와 researcher의 보고서를 바탕으로, 현재 KPI 달성 및 수익화 관점에서 가장 높은 ROI를 가져올 수 있는 '단일 핵심 작업(Single Core Task)'을 제안하고, 이를 실행하기 위한 즉각적인 다음 단계(Next Step)를 정의하세요. → 산출물 sessions/2026-10-31T09-19/business.md
