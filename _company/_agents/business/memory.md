@@ -591,3 +591,7 @@ _현빈 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-10-31] 제공된 회사 목표 및 에이전트 목표와 리서치 결과를 바탕으로, 현재 시점에서 가장 높은 ROI(수익성 및 영향력)를 가져올 단일 핵심 작업을 선정하고, 실행을 위한 초기 전략적 방향(KPI)을 제시. → 산출물 sessions/2026-10-31T07-06/business.md
 - [2026-10-31] Secretary가 제시한 작업 목록을 KPI 및 수익화 관점에서 분석하고, 가장 높은 비즈니스 가치를 지니는 단일 작업 1개를 최종 선정합니다. → 산출물 sessions/2026-10-31T07-21/business.md
 - [2026-10-31] researcher가 도출한 3가지 잠재적 기회에 대해 수익화 가능성(Monetization Potential), KPI 영향도, 실행 난이도를 기준으로 ROI 분석을 수행하고, 가장 가치 있는 단일 작업으로 최종 우선순위를 결정합니다. → 산출물 sessions/2026-10-31T07-36/business.md
+- [2026-10-31] secretary가 제공한 현재 상태와 researcher가 제시한 기회들을 비교 분석하여, 가장 높은 ROI(Return on Investment)를 가질 것으로 판단되는 단일 작업 1개를 최종 결정하고, 해당 작업을 실행할 최적의 에이전트(1~2명)를 지정하고 구체적인 실행 브리프를 작성하세요. → 산출물 sessions/2026-10-31T07-51/business.md
+- [2026-10-31] secretary와 researcher의 보고서를 종합하여, KPI 달성에 가장 기여할 수 있는 단일하고 독창적인 다음 행동(Action Item)을 최종 결정하고 이유를 제시. → 산출물 sessions/2026-10-31T08-06/business.md
+- [2026-10-31] secretary가 식별한 후보 작업들과 researcher가 제공한 데이터를 바탕으로, 잠재적 수익 창출 가능성(ROI)과 비즈니스 KPI 달성 기여도를 기준으로 최종 단일 작업의 우선순위를 결정하고 근거를 제시하시오. → 산출물 sessions/2026-10-31T08-49/business.md
+- [2026-10-31] secretary와 researcher의 보고를 기반으로, 현재 KPI 달성에 가장 큰 기여를 할 수 있는 '단일 최적의 작업(Highest Leverage Action Item)'을 결정하고, 실행을 위한 구체적인 방향성을 설정할 것. → 산출물 sessions/2026-10-31T09-04/business.md
